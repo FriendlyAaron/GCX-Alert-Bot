@@ -23,7 +23,7 @@ def getSubmission ():
     for submission in subreddit.new(limit=5):
       slink = submission.url 
       stitle = submission.title.lower() 
-      max = 85
+      max = 84
       shave = stitle[3:stitle.find('[w]')]
       swant = stitle[stitle.find('[w]')+3:]
       if '%' in swant:
