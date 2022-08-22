@@ -1,4 +1,4 @@
-# GCXAlert Bot
+# GCX-Alert-Bot
 This is a GCX (Giftcardexchange) bot that alerts you via email, about specific offers that you may be looking for from the subreddit [giftcardexchange](https://www.reddit.com/r/giftcardexchange/new/) so that you can get what you really want!
 
 ### Setup
