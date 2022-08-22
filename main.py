@@ -14,7 +14,7 @@ reddit = praw.Reddit(
 personalEmail = os.environ ['personalEmail']
 #Set the subreddit
 subreddit = reddit.subreddit("giftcardexchange")
-lookingFor = ['google']
+lookingFor = ['amazon']
 paymentOption = ['paypal']
 
 #Search posts
