@@ -22,16 +22,16 @@ This is a GCX (Giftcardexchange) bot that alerts you via email, about specific o
 6. Note down the password
 
 ###### config py file:
-1. **username:** your Reddit username
-2. **password:** your Reddit password
-3. **client_id:** the outputted client id
-4. **client_secret** the outputted client secret
-5. **email:** the email address you created 
-6. **emailPassword:** your generated password
-7. **personalEmail:** your personal email that you wish to receive the alerts on
-8. **lookingFor:** item that you want. It is currently configured to amazon and can be changed to other options like best buy, ebay, or target. You can also add to the list in case you are looking for mutiple items.
-9. **paymentOption:** how you want to pay for the item. Currently configured to paypal but can be changed to other options like zelle, crypto, or cashapp. You can also add to the list in case you have mutiple payment options. 
-10. **max:** the max percentage you would pay. It is cureently configured to 84 but it can be changed to a higher or lower amount
+1. **username:** Your Reddit username
+2. **password:** Your Reddit password
+3. **client_id:** The outputted client id
+4. **client_secret** The outputted client secret
+5. **email:** The email address you created 
+6. **emailPassword:** Your generated password
+7. **personalEmail:** Your personal email that you wish to receive the alerts on
+8. **lookingFor:** The Item that you want. It is currently configured to amazon and can be changed to other options like best buy, ebay, or target. You can also add to the list in case you are looking for mutiple items.
+9. **paymentOption:** How you want to pay for the item. It is currently configured to paypal but can be changed to other options like zelle, crypto, or cashapp. You can also add to the list in case you have mutiple payment options. 
+10. **max:** The max percentage you would pay. It is currently configured to 84 but it can be changed to a higher or lower amount
 
 
 ######  Installation
