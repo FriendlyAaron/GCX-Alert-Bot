@@ -41,7 +41,7 @@ def getSubmission ():
 
 while True:
   getSubmission()
-  time.sleep(60)
+  time.sleep(30)
 
 
 
