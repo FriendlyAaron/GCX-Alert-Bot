@@ -3,6 +3,7 @@ import praw
 import os
 import alert
 import re
+from keep_alive import keep_alive
 
 #Login to Reddit
 reddit = praw.Reddit(
@@ -52,7 +53,7 @@ def getSubmission ():
 
     
 
-
+keep_alive()
 while True:
   getSubmission()
   time.sleep(30)
