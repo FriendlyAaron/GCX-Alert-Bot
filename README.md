@@ -1,5 +1,5 @@
 # GCX-Alert-Bot
-This is a GCX (Giftcardexchange) bot that alerts you via email, about specific offers that you may be looking for from the subreddit [r/giftcardexchange](https://www.reddit.com/r/giftcardexchange/new/) from Reddit so that you can be notified of new posts for specific gift cards that you may be looking for.
+This is a GCX (Giftcardexchange) bot that alerts you via email, about specific offers that you may be looking for from the subreddit [r/giftcardexchange](https://www.reddit.com/r/giftcardexchange/new/) from Reddit so that you can be notified of new posts for specific gift cards that you may be looking for. This project is currently hosted on [Replit](https://replit.com/@aaronviera03/GCX-Alert#alert.py).
 
 ### Setup
 ###### Reddit App:
@@ -35,14 +35,14 @@ This is a GCX (Giftcardexchange) bot that alerts you via email, about specific o
 
 
 ######  Installation
-1. Download the latest python version from: https://www.python.org/downloads/
-2. Download the main.py & alert.py file
-3. Use pip3 to install praw in the terminal:         
+1. Create a [Replit](https://replit.com/) account
+2. Download the main.py, alert.py, and keep_alive files
+3. Go to my repls and create a new python repl
+4. Upload main.py, alert.py, and keep_alive files
+5. Config the main.py file to your liking
+6. Run the py file.
          
-         pip3 install praw
-
-4. Run the py file
-5. Host the bot on any bot hosting platform to keep it online and always send you notifications
+      
 
 ## Gallery:
 Here are some examples of email alerts the bot has made and the correlating post.
