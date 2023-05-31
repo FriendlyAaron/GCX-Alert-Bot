@@ -1,5 +1,5 @@
 # GCX-Alert-Bot
-This is a GCX (Giftcardexchange) bot that alerts you via email, about specific offers that you may be looking for from the subreddit [r/giftcardexchange](https://www.reddit.com/r/giftcardexchange/new/) from Reddit so that you can be notified of new posts for specific gift cards that you may be looking for. This project is currently hosted on [Replit](https://replit.com/@aaronviera03/GCX-Alert#alert.py).
+This is a GCX (Giftcardexchange) bot that alerts you via email, about specific offers that you may be looking for from the subreddit [r/giftcardexchange](https://www.reddit.com/r/giftcardexchange/new/) from Reddit so that you can be notified of new posts for specific gift cards that you may be looking for. This project is currently hosted on Replit.
 
 ### Setup
 ###### Reddit App:
