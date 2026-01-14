@@ -4,8 +4,8 @@ from email.message import EmailMessage
 from dotenv import load_dotenv
 
 load_dotenv("info.env")
-EMAIL = os.getenv("EMAIL")
-EMAIL_PASSWORD = os.getenv("EMAIL_PASSWORD")
+email = os.getenv("EMAIL")
+emailPassword = os.getenv("EMAIL_PASSWORD")
 
 def email_alert(subject, body, to):
   msg = EmailMessage()
