@@ -20,8 +20,8 @@ reddit = praw.Reddit(
 )
 settings = {
     "subreddit": "giftcardexchange",
-    "looking_for": ["amazon", "ebay"],
-    "payment_options": ["paypal", "zelle", "cashapp"],
+    "looking_for": ["amazon"],
+    "payment_options": ["paypal"],
     "max_percent": 80,
     "personal_emails": os.getenv("PERSONAL_EMAILS")
 }
