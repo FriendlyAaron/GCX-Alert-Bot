@@ -43,14 +43,14 @@ This is a GCX (Giftcardexchange) bot that alerts you via email, about specific o
 ## Gallery:
 Here are some examples of email alerts the bot has made and the correlating post.
 
-Alert for xbox gift card:
+Alert for Bbox gift card:
 ![SCR-20220821-sis](https://user-images.githubusercontent.com/84158176/185818934-b3b3b697-026f-40c6-bfb4-8e453b93b867.png)
 ![SCR-20220821-scr](https://user-images.githubusercontent.com/84158176/185818935-93f42312-e879-4e02-a21b-413d5da82ee9.png)
 
-Alert for amazon gift card:
+Alert for Amazon gift card:
 ![SCR-20220821-w03](https://user-images.githubusercontent.com/84158176/185830443-7ea6330a-0d4b-4f30-ba00-e203d9b81fa5.png)
 ![SCR-20220821-vzk](https://user-images.githubusercontent.com/84158176/185830444-e5726e63-ba1c-4b01-a2c4-0430d42ddf45.png)
 
-Alert for google gift card:
+Alert for Google gift card:
 ![SCR-20220822-epw](https://user-images.githubusercontent.com/84158176/185948019-d0a79a58-7275-4259-ae1d-70ef85e8dd08.png)
 ![SCR-20220822-epb](https://user-images.githubusercontent.com/84158176/185948021-ac2af6d2-4fd2-4d98-8d81-99ee7831597e.png)
