@@ -13,7 +13,7 @@ This is a GCX (Giftcardexchange) bot that alerts you via email, about specific o
 8. **redirect url:** http://localhost
 9. Note the outputted *client id* and *secret*
 
-###### Google email:
+###### Bot Google email:
 1. Create a [gmail account](https://accounts.google.com/signup) or use an exisiting gmail
 2. Set up 2-step verification
 3. Set app password 
@@ -21,26 +21,22 @@ This is a GCX (Giftcardexchange) bot that alerts you via email, about specific o
 5. Click generate
 6. Note down the password
 
-###### config py file:
-1. **username:** Your Reddit username
-2. **password:** Your Reddit password
-3. **client_id:** The outputted client id
-4. **client_secret** The outputted client secret
-5. **email:** The email address you created 
-6. **emailPassword:** Your generated password
-7. **personalEmail:** Your personal email address that you wish to receive the alerts on
-8. **lookingFor:** The Item that you want. It is currently configured to Amazon and can be changed to other options like Best Buy, Ebay, or Target. You can also add to the list in case you are looking for mutiple items.
-9. **paymentOption:** How you want to pay for the item. It is currently configured to Paypal but can be changed to other options like Zelle, crypto, or Cashapp. You can also add to the list in case you have mutiple payment options. 
-10. **max:** The max percentage you would pay. It is currently configured to 84 but it can be changed to a higher or lower amount
+###### config ENV file:
+1. **REDDIT_USERNAME:** Your Reddit username
+2. **REDDIT_PASSWORD:** Your Reddit password
+3. **CLIENT_ID:** The outputted client id
+4. **CLIENT_SECRET** The outputted client secret
+5. **EMAIL:** The email address you created 
+6. **EMAIL_PASSWORD:** Your generated password
+7. **PERSONAL_EMAILS:** Your personal email address that you wish to receive the alerts on
+
+###### config main file:
+1. **lookingFor:** The Item that you want. It is currently configured to Amazon and can be changed to other options like Best Buy, Ebay, or Target. You can also add to the list in case you are looking for mutiple items.
+2. **paymentOption:** How you want to pay for the item. It is currently configured to Paypal but can be changed to other options like Zelle, crypto, or Cashapp. You can also add to the list in case you have mutiple payment options. 
+3. **max_percent:** The max percentage you would pay. It is currently configured to 80 but it can be changed to a higher or lower amount
 
 
-######  Installation
-1. Create a [Replit](https://replit.com/) account
-2. Download the main.py, alert.py, and keep_alive files
-3. Go to my repls and create a new python repl
-4. Upload main.py, alert.py, and keep_alive files
-5. Config the main.py file to your liking
-6. Run the py file.
+
          
       
 
